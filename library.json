@@ -1,0 +1,19 @@
+{
+  "name": "AlashThermocouple",
+  "version": "1.0.0",
+  "description": "Type K thermocouple with MAX6675 and MAX31855: temperature, cold junction, open/short detection, software or hardware SPI, tips (ru/kk/en), no dependencies",
+  "keywords": "MAX6675, MAX31855, thermocouple, type K, temperature, SPI, kiln, soldering, furnace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alash-electronics/AlashThermocouple"
+  },
+  "authors": [
+    {
+      "name": "Alash Electronics",
+      "email": "alash.electronics@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
